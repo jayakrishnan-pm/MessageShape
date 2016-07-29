@@ -10,8 +10,8 @@
     tools:context="app.devdeeds.com.messageshape.MainActivity">
 
    <ImageView
-       android:layout_width="72dp"
-       android:layout_height="72dp"
+       android:layout_width="136dp"
+       android:layout_height="96dp"
        android:src="@drawable/message_shape"
        android:layout_centerInParent="true"
 

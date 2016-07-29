@@ -4,7 +4,7 @@
 
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="#df2b2b" />
+            <solid android:color="#F38D46" />
         </shape>
 
     </item>
@@ -12,14 +12,25 @@
     <item>
         <rotate
             android:fromDegrees="45"
-            android:pivotX="135%"
-            android:pivotY="15%"
+            android:pivotX="100%"
+            android:pivotY="1%"
             android:toDegrees="45">
             <shape android:shape="rectangle">
-                <solid android:color="#503737" />
+                <solid android:color="#995525" />
             </shape>
         </rotate>
     </item>
 
+    <item>
+        <rotate
+            android:fromDegrees="45"
+            android:pivotX="100%"
+            android:pivotY="0%"
+            android:toDegrees="45">
+            <shape android:shape="rectangle">
+                <solid android:color="#be682c" />
+            </shape>
+        </rotate>
+    </item>
 
 </layer-list>
